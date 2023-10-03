@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{84FA2E8D-5B85-41A7-B256-DA186949B948}|https">
+  <MonoDevelop.Ide.ItemProperties.ActronAirTestRESTAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ActronAirTestRESTAPI/Controllers/LargestIntController.cs">
+    <Files>
+      <File FileName="ActronAirTestRESTAPI/Controllers/LargestIntController.cs" Line="37" Column="10" />
+      <File FileName="ActronAirUnitTest/UnitTest1.cs" Line="20" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ActronAirTestRESTAPI" expanded="True">
+            <Node name="ActronAirTestRESTAPI" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="LargestIntController.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="ActronAirUnitTest" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="ActronAirTestRESTAPI" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ActronAirTestRESTAPI">
+            <Node name="ActronAirUnitTest" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/saydii/Projects/ActronAirTestRESTAPI/ActronAirTestRESTAPI/Controllers/LargestIntController.cs" relfile="ActronAirTestRESTAPI/Controllers/LargestIntController.cs" line="73" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

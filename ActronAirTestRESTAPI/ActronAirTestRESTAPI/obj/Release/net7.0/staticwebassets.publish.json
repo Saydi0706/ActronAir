@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ucm9Ml8baIxYwtgu29btYytDOzWCIMxH168rjGKzzqI=",
+  "Source": "ActronAirTestRESTAPI",
+  "BasePath": "_content/ActronAirTestRESTAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

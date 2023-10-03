@@ -1,0 +1,13 @@
+/Users/saydii/Projects/ActronAirTestRESTAPI/ActronAirTestRESTAPI/obj/Release/net7.0/PubTmp/Out/ActronAirTestRESTAPI
+/Users/saydii/Projects/ActronAirTestRESTAPI/ActronAirTestRESTAPI/obj/Release/net7.0/PubTmp/Out/appsettings.Development.json
+/Users/saydii/Projects/ActronAirTestRESTAPI/ActronAirTestRESTAPI/obj/Release/net7.0/PubTmp/Out/appsettings.json
+/Users/saydii/Projects/ActronAirTestRESTAPI/ActronAirTestRESTAPI/obj/Release/net7.0/PubTmp/Out/ActronAirTestRESTAPI.dll
+/Users/saydii/Projects/ActronAirTestRESTAPI/ActronAirTestRESTAPI/obj/Release/net7.0/PubTmp/Out/ActronAirTestRESTAPI.deps.json
+/Users/saydii/Projects/ActronAirTestRESTAPI/ActronAirTestRESTAPI/obj/Release/net7.0/PubTmp/Out/ActronAirTestRESTAPI.runtimeconfig.json
+/Users/saydii/Projects/ActronAirTestRESTAPI/ActronAirTestRESTAPI/obj/Release/net7.0/PubTmp/Out/ActronAirTestRESTAPI.pdb
+/Users/saydii/Projects/ActronAirTestRESTAPI/ActronAirTestRESTAPI/obj/Release/net7.0/PubTmp/Out/Microsoft.AspNetCore.OpenApi.dll
+/Users/saydii/Projects/ActronAirTestRESTAPI/ActronAirTestRESTAPI/obj/Release/net7.0/PubTmp/Out/Microsoft.OpenApi.dll
+/Users/saydii/Projects/ActronAirTestRESTAPI/ActronAirTestRESTAPI/obj/Release/net7.0/PubTmp/Out/Newtonsoft.Json.dll
+/Users/saydii/Projects/ActronAirTestRESTAPI/ActronAirTestRESTAPI/obj/Release/net7.0/PubTmp/Out/Swashbuckle.AspNetCore.Swagger.dll
+/Users/saydii/Projects/ActronAirTestRESTAPI/ActronAirTestRESTAPI/obj/Release/net7.0/PubTmp/Out/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/saydii/Projects/ActronAirTestRESTAPI/ActronAirTestRESTAPI/obj/Release/net7.0/PubTmp/Out/Swashbuckle.AspNetCore.SwaggerUI.dll
